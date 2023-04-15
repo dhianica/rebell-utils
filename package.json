@@ -1,6 +1,6 @@
 {
   "name": "rebell-utils",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Utilities rebell for helpers when using rebell framework",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,7 +19,7 @@
     "typescript",
     "cli"
   ],
-  "author": "dhianica",
+  "author": "Muchammad Ilham <muchammad.ilham@outlook.com>",
   "license": "ISC",
   "devDependencies": {
     "@swc/core": "^1.3.42",
